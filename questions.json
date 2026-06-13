@@ -1,0 +1,472 @@
+{
+  "groups": [
+    {
+      "id": "basics",
+      "name": "Chiller Basics",
+      "description": "Fundamentals of chiller systems",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the primary function of a chiller?",
+          "options": [
+            "To heat water",
+            "To cool water or air",
+            "To filter air",
+            "To increase humidity"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "Which component is responsible for compressing refrigerant?",
+          "options": [
+            "Evaporator",
+            "Condenser",
+            "Compressor",
+            "Expansion valve"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 3,
+          "question": "What does COP stand for in chiller terminology?",
+          "options": [
+            "Cooling Operation Protocol",
+            "Coefficient of Performance",
+            "Compressor Operating Power",
+            "Cooling Output Percentage"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What is the typical operating temperature range for chilled water?",
+          "options": [
+            "5-10°C",
+            "6-12°C",
+            "12-18°C",
+            "18-25°C"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 5,
+          "question": "Which refrigerant is commonly used in modern Daikin chillers?",
+          "options": [
+            "R-12",
+            "R-22",
+            "R-410A",
+            "R-502"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 6,
+          "question": "What is HFO gas type used in chiller systems?",
+          "options": [
+            "Hydrofluoroolefin - low GWP refrigerant with zero ODP",
+            "Hydrofluorocarbon - high GWP refrigerant",
+            "High Frequency Oscillation - cooling method",
+            "Hydrofluoric Oxide - synthetic compound"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 7,
+          "question": "What is the purpose of the refrigeration cycle in a chiller?",
+          "options": [
+            "To increase temperature",
+            "To transfer heat from a cold space to a warm space",
+            "To maintain constant pressure",
+            "To reduce energy consumption only"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 8,
+          "question": "What is the typical chilled water return temperature?",
+          "options": [
+            "4-7°C",
+            "7-12°C",
+            "15-18°C",
+            "20-25°C"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 9,
+          "question": "What does SCOP stand for?",
+          "options": [
+            "Standard Cooling Output Performance",
+            "Seasonal Coefficient of Performance",
+            "System Cooling Optimization Protocol",
+            "Specific Cooling Operating Parameters"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 10,
+          "question": "What is the refrigerant charge critical for?",
+          "options": [
+            "Only for noise reduction",
+            "Proper cooling capacity, efficiency, and system performance",
+            "Only for color coding",
+            "Preventing oil circulation"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": "components",
+      "name": "Chiller Components",
+      "description": "Understanding chiller parts and systems",
+      "questions": [
+        {
+          "id": 11,
+          "question": "What is the function of the expansion valve?",
+          "options": [
+            "To increase refrigerant pressure",
+            "To reduce refrigerant pressure and temperature",
+            "To absorb heat from the air",
+            "To separate liquid from vapor"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 12,
+          "question": "Where does heat rejection occur in a chiller?",
+          "options": [
+            "In the evaporator",
+            "In the compressor",
+            "In the condenser",
+            "In the expansion valve"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 13,
+          "question": "What is the purpose of the condenser fan?",
+          "options": [
+            "To circulate chilled water",
+            "To cool the condenser coil",
+            "To increase compressor speed",
+            "To regulate pressure"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 14,
+          "question": "Which component controls the refrigerant flow?",
+          "options": [
+            "Evaporator",
+            "Compressor",
+            "Expansion valve",
+            "Condenser"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 15,
+          "question": "What does the accumulator prevent?",
+          "options": [
+            "Water accumulation",
+            "Liquid refrigerant from entering the compressor",
+            "Air from entering the system",
+            "Heat transfer"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 16,
+          "question": "What type of chiller uses magnetic bearing compressor?",
+          "options": [
+            "Reciprocating chillers",
+            "Centrifugal chillers with magnetic bearing technology",
+            "Screw chillers",
+            "Rotary chillers"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 17,
+          "question": "What is the evaporator's main function?",
+          "options": [
+            "To reject heat to the environment",
+            "To absorb heat from the chilled water",
+            "To compress refrigerant",
+            "To regulate flow"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 18,
+          "question": "What is a thermostatic expansion valve (TXV)?",
+          "options": [
+            "A fixed restriction device",
+            "A device that modulates refrigerant flow based on superheat",
+            "A pressure relief valve",
+            "A oil separator"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 19,
+          "question": "What is the purpose of an oil separator in a chiller?",
+          "options": [
+            "To cool the refrigerant",
+            "To separate oil from refrigerant before return to compressor",
+            "To increase system pressure",
+            "To filter water"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 20,
+          "question": "What is a desuperheater used for?",
+          "options": [
+            "To heat domestic hot water or other loads",
+            "To cool the compressor discharge",
+            "To reduce system noise",
+            "To prevent freezing"
+          ],
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": "maintenance",
+      "name": "Maintenance & Troubleshooting",
+      "description": "Chiller maintenance and common issues",
+      "questions": [
+        {
+          "id": 21,
+          "question": "How often should chiller oil be changed?",
+          "options": [
+            "Every month",
+            "Every 6 months",
+            "Every year",
+            "Every 2-3 years"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 22,
+          "question": "What indicates a refrigerant leak?",
+          "options": [
+            "Increased noise",
+            "Reduced cooling capacity and high pressure",
+            "Water in condenser",
+            "Fan not running"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 23,
+          "question": "What should be checked during routine maintenance?",
+          "options": [
+            "Only the compressor",
+            "Refrigerant charge, oil level, and filter condition",
+            "Only the condenser",
+            "Only electrical connections"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 24,
+          "question": "What does a high head pressure indicate?",
+          "options": [
+            "Normal operation",
+            "Condenser fouling or elevated ambient temperature",
+            "Low refrigerant charge",
+            "Evaporator freeze-up"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 25,
+          "question": "How can condenser fouling be prevented?",
+          "options": [
+            "By increasing refrigerant charge",
+            "By regular cleaning and water treatment",
+            "By reducing compressor speed",
+            "By decreasing water flow"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 26,
+          "question": "What is low evaporator pressure a sign of?",
+          "options": [
+            "Normal operation",
+            "Refrigerant overcharge",
+            "Refrigerant undercharge or clogged strainer",
+            "High ambient temperature"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 27,
+          "question": "How often should chiller water be treated?",
+          "options": [
+            "Once a year",
+            "Continuously or per manufacturer recommendations",
+            "Never necessary",
+            "Every 5 years"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 28,
+          "question": "What causes chiller capacity loss?",
+          "options": [
+            "Only low ambient temperature",
+            "Fouled surfaces, low refrigerant, or faulty compressor",
+            "High evaporator pressure",
+            "Excess oil in system"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 29,
+          "question": "What is the purpose of a subcooler in a chiller?",
+          "options": [
+            "To increase compressor work",
+            "To cool liquid refrigerant before expansion valve",
+            "To increase system noise",
+            "To reduce efficiency"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 30,
+          "question": "How can chiller efficiency be improved?",
+          "options": [
+            "Run at maximum capacity always",
+            "Reduce water flow rate",
+            "Lower entering condenser water temperature",
+            "Increase refrigerant pressure"
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "id": "efficiency",
+      "name": "Energy Efficiency",
+      "description": "Chiller efficiency and optimization",
+      "questions": [
+        {
+          "id": 31,
+          "question": "What factor most affects chiller efficiency?",
+          "options": [
+            "Color of the chiller",
+            "Condenser and evaporator temperature difference",
+            "Size of the chiller room",
+            "Time of day"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 32,
+          "question": "How can you improve SCOP (Seasonal Coefficient of Performance)?",
+          "options": [
+            "Increase compressor speed",
+            "Reduce chilled water temperature",
+            "Lower condenser temperature and increase evaporator temperature",
+            "Increase system pressure"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 33,
+          "question": "What is the impact of proper refrigerant charge?",
+          "options": [
+            "No impact on efficiency",
+            "Directly affects cooling capacity and efficiency",
+            "Only affects noise level",
+            "Only affects color of refrigerant"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 34,
+          "question": "Which feature improves chiller energy efficiency?",
+          "options": [
+            "Fixed speed compressor",
+            "Variable speed drive (VFD)",
+            "No capacity modulation",
+            "Constant water flow"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 35,
+          "question": "What is the advantage of free cooling in chillers?",
+          "options": [
+            "No advantage",
+            "Reduces compressor runtime and saves energy",
+            "Increases cooling capacity",
+            "Eliminates maintenance"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 36,
+          "question": "What is the optimal condenser water approach temperature?",
+          "options": [
+            "Less than 2°C",
+            "2-4°C is typical and efficient",
+            "Greater than 10°C",
+            "Cannot be controlled"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 37,
+          "question": "How does load variation affect chiller efficiency?",
+          "options": [
+            "No effect at all",
+            "Part load reduces efficiency on fixed-speed units",
+            "Always improves efficiency",
+            "Only affects temperature"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 38,
+          "question": "What is the purpose of chiller sequencing in multiple units?",
+          "options": [
+            "To create noise",
+            "To maintain the most efficient unit in operation",
+            "To increase maintenance cost",
+            "To reduce cooling capacity"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 39,
+          "question": "How does dirty condenser affect chiller efficiency?",
+          "options": [
+            "Improves efficiency",
+            "Increases COP",
+            "Reduces efficiency and increases energy consumption",
+            "No effect"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 40,
+          "question": "What is the benefit of low-lift chillers?",
+          "options": [
+            "Higher noise levels",
+            "Reduced capacity",
+            "20-30% energy savings with smaller temperature differentials",
+            "Requires more maintenance"
+          ],
+          "correct": 2
+        }
+      ]
+    }
+  ]
+}
